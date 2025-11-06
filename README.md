@@ -12,3 +12,5 @@ Improvement made from previous version:
 2. more random question format is generated
 
 rocket is also an interesting python script game as it will show exactly how far the scale the rocket flew entered by the player.
+
+andre naming convention is because this entire series of game is specifically designed for my tuition student, Andre.
